@@ -680,6 +680,7 @@ impl Default for PlayerSettings<'_> {
 
 /// Events that happen in game.
 /// Passed to [`on_event`](Player::on_event).
+#[derive(Debug, Clone, Copy)]
 pub enum Event {
 	/// Unit died or structure destroyed (all units: your, enemy, neutral).
 	UnitDestroyed(u64, Option<Alliance>),
