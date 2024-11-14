@@ -1867,6 +1867,14 @@ impl Unit {
 			}
 		}
 	}
+	/// Orders worker to build something on given position, or resume building the given tag.
+	pub fn build_with_target(&self, unit: UnitTypeId, target: Target, queue: bool) {
+		if let Some(type_data) = self.data.game_data.units.get(&unit) {
+			if let Some(ability) = type_data.ability {
+				self.command(ability, target, queue);
+			}
+		}
+	}
 	/// Orders production building to train given unit.
 	///
 	/// This also works for morphing units and building addons.
