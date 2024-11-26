@@ -363,7 +363,7 @@ pub mod prelude {
 	pub use sc2_macro::{bot, bot_new};
 }
 
-mod paths;
+pub mod paths;
 
 pub mod action;
 pub mod api;
