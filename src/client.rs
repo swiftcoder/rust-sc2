@@ -360,6 +360,99 @@ impl Drop for Human {
 	}
 }
 
+#[derive(Default)]
+struct ReplayRunner {
+	sc2_path: String,
+	replay: String,
+	process: Option<Child>,
+	api: Option<API>,
+}
+
+impl ReplayRunner {
+	pub fn new(replay: String) -> Self {
+		let sc2_path = get_path_to_sc2();
+
+		Self {
+			sc2_path,
+			replay,
+			process: None,
+			api: None,
+		}
+	}
+
+	/// Launches SC2 clients and connects bot to the API.
+	pub fn launch(&mut self) -> SC2Result<()> {
+		// let (port_bot, port_human) = (PORT, PORT + 1);
+		let ports = get_unused_ports(1);
+		let port = ports[0];
+
+		debug!("Launching SC2 process");
+		self.process = Some(launch_client(&self.sc2_path, port, Some("4.10")));
+
+		debug!("Connecting to websocket");
+		self.api = Some(API::new(connect_to_websocket(HOST, port)?));
+
+		Ok(())
+	}
+
+	/// Runs requested game.
+	pub fn run_game(&mut self) -> SC2Result<()> {
+		let api = self.api.as_ref().unwrap();
+
+		debug!("Sending CreateGame request to host process");
+		let mut req = Request::new();
+		let req_start_replay = req.mut_start_replay();
+
+		req_start_replay.set_replay_path(self.replay.clone());
+		req_start_replay.set_observed_player_id(0);
+		req_start_replay.set_realtime(true);
+
+		let options = req_start_replay.mut_options();
+		options.set_raw(false);
+		options.set_score(true);
+		options.mut_feature_layer().set_width(24.0);
+		// options.mut_render();
+		options.set_show_cloaked(true);
+		options.set_show_burrowed_shadows(true);
+		options.set_show_placeholders(true);
+		options.set_raw_affects_selection(false);
+		options.set_raw_crop_to_playable_area(false);
+
+		let res = api.send(req)?;
+		let res_start_replay = res.get_start_replay();
+		if res_start_replay.has_error() {
+			let err = format!(
+				"{:?}: {}",
+				res_start_replay.get_error(),
+				res_start_replay.get_error_details()
+			);
+			error!("{}", err);
+			panic!("{}", err);
+		}
+
+		loop {
+			let mut req = Request::new();
+			let obervation = req.mut_observation();
+			obervation.set_disable_fog(false);
+			let res = api.send(req)?;
+
+			if matches!(res.get_status(), Status::ended) {
+				break;
+			}
+
+			let mut req = Request::new();
+			req.mut_step().set_count(1);
+			api.send_request(req)?;
+		}
+
+		let mut req = Request::new();
+		req.mut_quit();
+		api.send_request(req)?;
+
+		Ok(())
+	}
+}
+
 #[derive(Debug)]
 struct ProtoError(String);
 impl ProtoError {
@@ -472,6 +565,15 @@ where
 	runner.launch()?;
 	runner.realtime = options.realtime;
 	runner.save_replay_as = options.save_replay_as;
+	runner.run_game()?;
+	Ok(())
+}
+
+// simple function to playback a replay file
+pub fn run_replay(replay: String) -> SC2Result<()> {
+	let mut runner = ReplayRunner::new(replay);
+
+	runner.launch()?;
 	runner.run_game()?;
 	Ok(())
 }

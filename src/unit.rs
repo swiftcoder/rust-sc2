@@ -1778,13 +1778,20 @@ impl Unit {
 	}
 	/// Orders unit to execute given command.
 	pub fn command(&self, ability: AbilityId, target: Target, queue: bool) {
-		self.data
+		let mut lock = self.data
 			.commander
-			.write_lock()
-			.commands
-			.entry((ability, target, queue))
-			.or_default()
-			.push(self.tag());
+			.write_lock();
+
+		for (a, t, q, u) in &mut lock.commands {
+			// if the same command is already issued for another unit, add ourselves to it
+			if *a == ability && *t == target && *q == queue {
+				u.push(self.tag());
+				return;
+			}
+		}
+
+		// otherwise add a new command
+		lock.commands.push((ability, target, queue, vec![self.tag()]));
 	}
 	/// Orders unit to use given ability (This is equivalent of `unit.command(ability, Target::None, queue)`).
 	pub fn use_ability(&self, ability: AbilityId, queue: bool) {
@@ -1857,6 +1864,14 @@ impl Unit {
 		if let Some(type_data) = self.data.game_data.units.get(&unit) {
 			if let Some(ability) = type_data.ability {
 				self.command(ability, Target::Pos(target), queue);
+			}
+		}
+	}
+	/// Orders worker to build something on given position, or resume building the given tag.
+	pub fn build_with_target(&self, unit: UnitTypeId, target: Target, queue: bool) {
+		if let Some(type_data) = self.data.game_data.units.get(&unit) {
+			if let Some(ability) = type_data.ability {
+				self.command(ability, target, queue);
 			}
 		}
 	}
