@@ -387,7 +387,7 @@ impl ReplayRunner {
 		let port = ports[0];
 
 		debug!("Launching SC2 process");
-		self.process = Some(launch_client(&self.sc2_path, port, None));
+		self.process = Some(launch_client(&self.sc2_path, port, Some("4.10")));
 
 		debug!("Connecting to websocket");
 		self.api = Some(API::new(connect_to_websocket(HOST, port)?));
@@ -405,6 +405,7 @@ impl ReplayRunner {
 
 		req_start_replay.set_replay_path(self.replay.clone());
 		req_start_replay.set_observed_player_id(0);
+		req_start_replay.set_realtime(true);
 
 		let options = req_start_replay.mut_options();
 		options.set_raw(false);
@@ -431,12 +432,17 @@ impl ReplayRunner {
 
 		loop {
 			let mut req = Request::new();
-			req.mut_observation().set_disable_fog(false);
+			let obervation = req.mut_observation();
+			obervation.set_disable_fog(false);
 			let res = api.send(req)?;
 
 			if matches!(res.get_status(), Status::ended) {
 				break;
 			}
+
+			let mut req = Request::new();
+			req.mut_step().set_count(1);
+			api.send_request(req)?;
 		}
 
 		let mut req = Request::new();
