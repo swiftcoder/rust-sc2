@@ -33,7 +33,7 @@ pub fn get_path_to_sc2() -> String {
 			}
 			#[cfg(target_os = "macos")]
 			{
-				"/Applications/Starcraft II".to_string()
+				"/Applications/StarCraft II".to_string()
 			}
 		}
 	}
