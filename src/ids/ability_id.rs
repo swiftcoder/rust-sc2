@@ -230,6 +230,7 @@ pub enum AbilityId {
 	StarportTechLabResearchRavenResearchEnhancedMunitions = 806,
 	StarportTechLabResearchRavenInterferenceMatrix = 807,
 	ResearchPersonalCloaking = 820,
+	GhostAcademyResearchGhostEnergyUpgrade = 821,
 	GhostAcademyResearchEnhancedShockwaves = 822,
 	ArmoryResearchTerranVehiclePlatingLevel1 = 852,
 	ArmoryResearchTerranVehiclePlatingLevel2 = 853,
