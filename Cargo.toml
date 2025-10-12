@@ -42,3 +42,6 @@ protoc = ["sc2-proto/protoc-rust"]
 enemies_cache = []
 wine_sc2 = []
 rayon = ["dep:rayon", "indexmap/rayon", "ndarray/rayon"]
+
+[patch.crates-io]
+sc2-proto = { git = "https://github.com/swiftcoder/sc2-proto-rs.git" }

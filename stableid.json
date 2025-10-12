@@ -16693,7 +16693,7 @@
             "name": "ChannelSnipe"
         },
         {
-            "buttonname": "",
+            "buttonname": "Cancel",
             "id": 2715,
             "index": 1,
             "name": "ChannelSnipe"
@@ -23262,6 +23262,1974 @@
             "id": 3796,
             "index": 0,
             "name": "GeneralUnloadUnit"
+        },
+	{
+	    "buttonname": "LoadoutSpray@1",
+	    "id": 3797,
+	    "index": 0,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@2",
+	    "id": 3798,
+	    "index": 1,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@3",
+	    "id": 3799,
+	    "index": 2,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@4",
+	    "id": 3800,
+	    "index": 3,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@5",
+	    "id": 3801,
+	    "index": 4,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@6",
+	    "id": 3802,
+	    "index": 5,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@7",
+	    "id": 3803,
+	    "index": 6,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@8",
+	    "id": 3804,
+	    "index": 7,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@9",
+	    "id": 3805,
+	    "index": 8,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@10",
+	    "id": 3806,
+	    "index": 9,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@11",
+	    "id": 3807,
+	    "index": 10,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@12",
+	    "id": 3808,
+	    "index": 11,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@13",
+	    "id": 3809,
+	    "index": 12,
+	    "name": "LoadoutSpray"
+	},
+	{
+	    "buttonname": "LoadoutSpray@14",
+	    "id": 3810,
+	    "index": 13,
+	    "name": "LoadoutSpray"
+	},
+        {
+            "buttonname": "DummyAbil0",
+            "id": 3811,
+            "index": 0,
+            "name": "DummyAbil0"
+        },
+        {
+            "buttonname": "DummyAbil1",
+            "id": 3812,
+            "index": 0,
+            "name": "DummyAbil1"
+        },
+        {
+            "buttonname": "DummyAbil2",
+            "id": 3813,
+            "index": 0,
+            "name": "DummyAbil2"
+        },
+        {
+            "buttonname": "DummyAbil3",
+            "id": 3814,
+            "index": 0,
+            "name": "DummyAbil3"
+        },
+        {
+            "buttonname": "DummyAbil4",
+            "id": 3815,
+            "index": 0,
+            "name": "DummyAbil4"
+        },
+        {
+            "buttonname": "DummyAbil5",
+            "id": 3816,
+            "index": 0,
+            "name": "DummyAbil5"
+        },
+        {
+            "buttonname": "DummyAbil6",
+            "id": 3817,
+            "index": 0,
+            "name": "DummyAbil6"
+        },
+        {
+            "buttonname": "DummyAbil7",
+            "id": 3818,
+            "index": 0,
+            "name": "DummyAbil7"
+        },
+        {
+            "buttonname": "DummyAbil8",
+            "id": 3819,
+            "index": 0,
+            "name": "DummyAbil8"
+        },
+        {
+            "buttonname": "DummyAbil9",
+            "id": 3820,
+            "index": 0,
+            "name": "DummyAbil9"
+        },
+        {
+            "buttonname": "DummyAbil10",
+            "id": 3821,
+            "index": 0,
+            "name": "DummyAbil10"
+        },
+        {
+            "buttonname": "DummyAbil11",
+            "id": 3822,
+            "index": 0,
+            "name": "DummyAbil11"
+        },
+        {
+            "buttonname": "DummyAbil12",
+            "id": 3823,
+            "index": 0,
+            "name": "DummyAbil12"
+        },
+        {
+            "buttonname": "DummyAbil13",
+            "id": 3824,
+            "index": 0,
+            "name": "DummyAbil13"
+        },
+        {
+            "buttonname": "DummyAbil14",
+            "id": 3825,
+            "index": 0,
+            "name": "DummyAbil14"
+        },
+        {
+            "buttonname": "DummyAbil15",
+            "id": 3826,
+            "index": 0,
+            "name": "DummyAbil15"
+        },
+        {
+            "buttonname": "DummyAbil16",
+            "id": 3827,
+            "index": 0,
+            "name": "DummyAbil16"
+        },
+        {
+            "buttonname": "DummyAbil17",
+            "id": 3828,
+            "index": 0,
+            "name": "DummyAbil17"
+        },
+        {
+            "buttonname": "DummyAbil18",
+            "id": 3829,
+            "index": 0,
+            "name": "DummyAbil18"
+        },
+        {
+            "buttonname": "DummyAbil19",
+            "id": 3830,
+            "index": 0,
+            "name": "DummyAbil19"
+        },
+        {
+            "buttonname": "DummyAbil20",
+            "id": 3831,
+            "index": 0,
+            "name": "DummyAbil20"
+        },
+        {
+            "buttonname": "DummyAbil21",
+            "id": 3832,
+            "index": 0,
+            "name": "DummyAbil21"
+        },
+        {
+            "buttonname": "DummyAbil22",
+            "id": 3833,
+            "index": 0,
+            "name": "DummyAbil22"
+        },
+        {
+            "buttonname": "DummyAbil23",
+            "id": 3834,
+            "index": 0,
+            "name": "DummyAbil23"
+        },
+        {
+            "buttonname": "DummyAbil24",
+            "id": 3835,
+            "index": 0,
+            "name": "DummyAbil24"
+        },
+        {
+            "buttonname": "DummyAbil25",
+            "id": 3836,
+            "index": 0,
+            "name": "DummyAbil25"
+        },
+        {
+            "buttonname": "DummyAbil26",
+            "id": 3837,
+            "index": 0,
+            "name": "DummyAbil26"
+        },
+        {
+            "buttonname": "DummyAbil27",
+            "id": 3838,
+            "index": 0,
+            "name": "DummyAbil27"
+        },
+        {
+            "buttonname": "DummyAbil28",
+            "id": 3839,
+            "index": 0,
+            "name": "DummyAbil28"
+        },
+        {
+            "buttonname": "DummyAbil29",
+            "id": 3840,
+            "index": 0,
+            "name": "DummyAbil29"
+        },
+        {
+            "buttonname": "DummyAbil30",
+            "id": 3841,
+            "index": 0,
+            "name": "DummyAbil30"
+        },
+        {
+            "buttonname": "DummyAbil31",
+            "id": 3842,
+            "index": 0,
+            "name": "DummyAbil31"
+        },
+        {
+            "buttonname": "DummyAbil32",
+            "id": 3843,
+            "index": 0,
+            "name": "DummyAbil32"
+        },
+        {
+            "buttonname": "DummyAbil33",
+            "id": 3844,
+            "index": 0,
+            "name": "DummyAbil33"
+        },
+        {
+            "buttonname": "DummyAbil34",
+            "id": 3845,
+            "index": 0,
+            "name": "DummyAbil34"
+        },
+        {
+            "buttonname": "DummyAbil35",
+            "id": 3846,
+            "index": 0,
+            "name": "DummyAbil35"
+        },
+        {
+            "buttonname": "DummyAbil36",
+            "id": 3847,
+            "index": 0,
+            "name": "DummyAbil36"
+        },
+        {
+            "buttonname": "DummyAbil37",
+            "id": 3848,
+            "index": 0,
+            "name": "DummyAbil37"
+        },
+        {
+            "buttonname": "DummyAbil38",
+            "id": 3849,
+            "index": 0,
+            "name": "DummyAbil38"
+        },
+        {
+            "buttonname": "DummyAbil39",
+            "id": 3850,
+            "index": 0,
+            "name": "DummyAbil39"
+        },
+        {
+            "buttonname": "DummyAbil40",
+            "id": 3851,
+            "index": 0,
+            "name": "DummyAbil40"
+        },
+        {
+            "buttonname": "DummyAbil41",
+            "id": 3852,
+            "index": 0,
+            "name": "DummyAbil41"
+        },
+        {
+            "buttonname": "DummyAbil42",
+            "id": 3853,
+            "index": 0,
+            "name": "DummyAbil42"
+        },
+        {
+            "buttonname": "DummyAbil43",
+            "id": 3854,
+            "index": 0,
+            "name": "DummyAbil43"
+        },
+        {
+            "buttonname": "DummyAbil44",
+            "id": 3855,
+            "index": 0,
+            "name": "DummyAbil44"
+        },
+        {
+            "buttonname": "DummyAbil45",
+            "id": 3856,
+            "index": 0,
+            "name": "DummyAbil45"
+        },
+        {
+            "buttonname": "DummyAbil46",
+            "id": 3857,
+            "index": 0,
+            "name": "DummyAbil46"
+        },
+        {
+            "buttonname": "DummyAbil47",
+            "id": 3858,
+            "index": 0,
+            "name": "DummyAbil47"
+        },
+        {
+            "buttonname": "DummyAbil48",
+            "id": 3859,
+            "index": 0,
+            "name": "DummyAbil48"
+        },
+        {
+            "buttonname": "DummyAbil49",
+            "id": 3860,
+            "index": 0,
+            "name": "DummyAbil49"
+        },
+        {
+            "buttonname": "DummyAbil50",
+            "id": 3861,
+            "index": 0,
+            "name": "DummyAbil50"
+        },
+        {
+            "buttonname": "DummyAbil51",
+            "id": 3862,
+            "index": 0,
+            "name": "DummyAbil51"
+        },
+        {
+            "buttonname": "DummyAbil52",
+            "id": 3863,
+            "index": 0,
+            "name": "DummyAbil52"
+        },
+        {
+            "buttonname": "DummyAbil53",
+            "id": 3864,
+            "index": 0,
+            "name": "DummyAbil53"
+        },
+        {
+            "buttonname": "DummyAbil54",
+            "id": 3865,
+            "index": 0,
+            "name": "DummyAbil54"
+        },
+        {
+            "buttonname": "DummyAbil55",
+            "id": 3866,
+            "index": 0,
+            "name": "DummyAbil55"
+        },
+        {
+            "buttonname": "DummyAbil56",
+            "id": 3867,
+            "index": 0,
+            "name": "DummyAbil56"
+        },
+        {
+            "buttonname": "DummyAbil57",
+            "id": 3868,
+            "index": 0,
+            "name": "DummyAbil57"
+        },
+        {
+            "buttonname": "DummyAbil58",
+            "id": 3869,
+            "index": 0,
+            "name": "DummyAbil58"
+        },
+        {
+            "buttonname": "DummyAbil59",
+            "id": 3870,
+            "index": 0,
+            "name": "DummyAbil59"
+        },
+        {
+            "buttonname": "DummyAbil60",
+            "id": 3871,
+            "index": 0,
+            "name": "DummyAbil60"
+        },
+        {
+            "buttonname": "DummyAbil61",
+            "id": 3872,
+            "index": 0,
+            "name": "DummyAbil61"
+        },
+        {
+            "buttonname": "DummyAbil62",
+            "id": 3873,
+            "index": 0,
+            "name": "DummyAbil62"
+        },
+        {
+            "buttonname": "DummyAbil63",
+            "id": 3874,
+            "index": 0,
+            "name": "DummyAbil63"
+        },
+        {
+            "buttonname": "DummyAbil64",
+            "id": 3875,
+            "index": 0,
+            "name": "DummyAbil64"
+        },
+        {
+            "buttonname": "DummyAbil65",
+            "id": 3876,
+            "index": 0,
+            "name": "DummyAbil65"
+        },
+        {
+            "buttonname": "DummyAbil66",
+            "id": 3877,
+            "index": 0,
+            "name": "DummyAbil66"
+        },
+        {
+            "buttonname": "DummyAbil67",
+            "id": 3878,
+            "index": 0,
+            "name": "DummyAbil67"
+        },
+        {
+            "buttonname": "DummyAbil68",
+            "id": 3879,
+            "index": 0,
+            "name": "DummyAbil68"
+        },
+        {
+            "buttonname": "DummyAbil69",
+            "id": 3880,
+            "index": 0,
+            "name": "DummyAbil69"
+        },
+        {
+            "buttonname": "DummyAbil70",
+            "id": 3881,
+            "index": 0,
+            "name": "DummyAbil70"
+        },
+        {
+            "buttonname": "DummyAbil71",
+            "id": 3882,
+            "index": 0,
+            "name": "DummyAbil71"
+        },
+        {
+            "buttonname": "DummyAbil72",
+            "id": 3883,
+            "index": 0,
+            "name": "DummyAbil72"
+        },
+        {
+            "buttonname": "DummyAbil73",
+            "id": 3884,
+            "index": 0,
+            "name": "DummyAbil73"
+        },
+        {
+            "buttonname": "DummyAbil74",
+            "id": 3885,
+            "index": 0,
+            "name": "DummyAbil74"
+        },
+        {
+            "buttonname": "DummyAbil75",
+            "id": 3886,
+            "index": 0,
+            "name": "DummyAbil75"
+        },
+        {
+            "buttonname": "DummyAbil76",
+            "id": 3887,
+            "index": 0,
+            "name": "DummyAbil76"
+        },
+        {
+            "buttonname": "DummyAbil77",
+            "id": 3888,
+            "index": 0,
+            "name": "DummyAbil77"
+        },
+        {
+            "buttonname": "DummyAbil78",
+            "id": 3889,
+            "index": 0,
+            "name": "DummyAbil78"
+        },
+        {
+            "buttonname": "DummyAbil79",
+            "id": 3890,
+            "index": 0,
+            "name": "DummyAbil79"
+        },
+        {
+            "buttonname": "DummyAbil80",
+            "id": 3891,
+            "index": 0,
+            "name": "DummyAbil80"
+        },
+        {
+            "buttonname": "DummyAbil81",
+            "id": 3892,
+            "index": 0,
+            "name": "DummyAbil81"
+        },
+        {
+            "buttonname": "DummyAbil82",
+            "id": 3893,
+            "index": 0,
+            "name": "DummyAbil82"
+        },
+        {
+            "buttonname": "DummyAbil83",
+            "id": 3894,
+            "index": 0,
+            "name": "DummyAbil83"
+        },
+        {
+            "buttonname": "DummyAbil84",
+            "id": 3895,
+            "index": 0,
+            "name": "DummyAbil84"
+        },
+        {
+            "buttonname": "DummyAbil85",
+            "id": 3896,
+            "index": 0,
+            "name": "DummyAbil85"
+        },
+        {
+            "buttonname": "DummyAbil86",
+            "id": 3897,
+            "index": 0,
+            "name": "DummyAbil86"
+        },
+        {
+            "buttonname": "DummyAbil87",
+            "id": 3898,
+            "index": 0,
+            "name": "DummyAbil87"
+        },
+        {
+            "buttonname": "DummyAbil88",
+            "id": 3899,
+            "index": 0,
+            "name": "DummyAbil88"
+        },
+        {
+            "buttonname": "DummyAbil89",
+            "id": 3900,
+            "index": 0,
+            "name": "DummyAbil89"
+        },
+        {
+            "buttonname": "DummyAbil90",
+            "id": 3901,
+            "index": 0,
+            "name": "DummyAbil90"
+        },
+        {
+            "buttonname": "DummyAbil91",
+            "id": 3902,
+            "index": 0,
+            "name": "DummyAbil91"
+        },
+        {
+            "buttonname": "DummyAbil92",
+            "id": 3903,
+            "index": 0,
+            "name": "DummyAbil92"
+        },
+        {
+            "buttonname": "DummyAbil93",
+            "id": 3904,
+            "index": 0,
+            "name": "DummyAbil93"
+        },
+        {
+            "buttonname": "DummyAbil94",
+            "id": 3905,
+            "index": 0,
+            "name": "DummyAbil94"
+        },
+        {
+            "buttonname": "DummyAbil95",
+            "id": 3906,
+            "index": 0,
+            "name": "DummyAbil95"
+        },
+        {
+            "buttonname": "DummyAbil96",
+            "id": 3907,
+            "index": 0,
+            "name": "DummyAbil96"
+        },
+        {
+            "buttonname": "DummyAbil97",
+            "id": 3908,
+            "index": 0,
+            "name": "DummyAbil97"
+        },
+        {
+            "buttonname": "DummyAbil98",
+            "id": 3909,
+            "index": 0,
+            "name": "DummyAbil98"
+        },
+        {
+            "buttonname": "DummyAbil99",
+            "id": 3910,
+            "index": 0,
+            "name": "DummyAbil99"
+        },
+        {
+            "buttonname": "DummyAbil100",
+            "id": 3911,
+            "index": 0,
+            "name": "DummyAbil100"
+        },
+        {
+            "buttonname": "DummyAbil101",
+            "id": 3912,
+            "index": 0,
+            "name": "DummyAbil101"
+        },
+        {
+            "buttonname": "DummyAbil102",
+            "id": 3913,
+            "index": 0,
+            "name": "DummyAbil102"
+        },
+        {
+            "buttonname": "DummyAbil103",
+            "id": 3914,
+            "index": 0,
+            "name": "DummyAbil103"
+        },
+        {
+            "buttonname": "DummyAbil104",
+            "id": 3915,
+            "index": 0,
+            "name": "DummyAbil104"
+        },
+        {
+            "buttonname": "DummyAbil105",
+            "id": 3916,
+            "index": 0,
+            "name": "DummyAbil105"
+        },
+        {
+            "buttonname": "DummyAbil106",
+            "id": 3917,
+            "index": 0,
+            "name": "DummyAbil106"
+        },
+        {
+            "buttonname": "DummyAbil107",
+            "id": 3918,
+            "index": 0,
+            "name": "DummyAbil107"
+        },
+        {
+            "buttonname": "DummyAbil108",
+            "id": 3919,
+            "index": 0,
+            "name": "DummyAbil108"
+        },
+        {
+            "buttonname": "DummyAbil109",
+            "id": 3920,
+            "index": 0,
+            "name": "DummyAbil109"
+        },
+        {
+            "buttonname": "DummyAbil110",
+            "id": 3921,
+            "index": 0,
+            "name": "DummyAbil110"
+        },
+        {
+            "buttonname": "DummyAbil111",
+            "id": 3922,
+            "index": 0,
+            "name": "DummyAbil111"
+        },
+        {
+            "buttonname": "DummyAbil112",
+            "id": 3923,
+            "index": 0,
+            "name": "DummyAbil112"
+        },
+        {
+            "buttonname": "DummyAbil113",
+            "id": 3924,
+            "index": 0,
+            "name": "DummyAbil113"
+        },
+        {
+            "buttonname": "DummyAbil114",
+            "id": 3925,
+            "index": 0,
+            "name": "DummyAbil114"
+        },
+        {
+            "buttonname": "DummyAbil115",
+            "id": 3926,
+            "index": 0,
+            "name": "DummyAbil115"
+        },
+        {
+            "buttonname": "DummyAbil116",
+            "id": 3927,
+            "index": 0,
+            "name": "DummyAbil116"
+        },
+        {
+            "buttonname": "DummyAbil117",
+            "id": 3928,
+            "index": 0,
+            "name": "DummyAbil117"
+        },
+        {
+            "buttonname": "DummyAbil118",
+            "id": 3929,
+            "index": 0,
+            "name": "DummyAbil118"
+        },
+        {
+            "buttonname": "DummyAbil119",
+            "id": 3930,
+            "index": 0,
+            "name": "DummyAbil119"
+        },
+        {
+            "buttonname": "DummyAbil120",
+            "id": 3931,
+            "index": 0,
+            "name": "DummyAbil120"
+        },
+        {
+            "buttonname": "DummyAbil121",
+            "id": 3932,
+            "index": 0,
+            "name": "DummyAbil121"
+        },
+        {
+            "buttonname": "DummyAbil122",
+            "id": 3933,
+            "index": 0,
+            "name": "DummyAbil122"
+        },
+        {
+            "buttonname": "DummyAbil123",
+            "id": 3934,
+            "index": 0,
+            "name": "DummyAbil123"
+        },
+        {
+            "buttonname": "DummyAbil124",
+            "id": 3935,
+            "index": 0,
+            "name": "DummyAbil124"
+        },
+        {
+            "buttonname": "DummyAbil125",
+            "id": 3936,
+            "index": 0,
+            "name": "DummyAbil125"
+        },
+        {
+            "buttonname": "DummyAbil126",
+            "id": 3937,
+            "index": 0,
+            "name": "DummyAbil126"
+        },
+        {
+            "buttonname": "DummyAbil127",
+            "id": 3938,
+            "index": 0,
+            "name": "DummyAbil127"
+        },
+        {
+            "buttonname": "DummyAbil128",
+            "id": 3939,
+            "index": 0,
+            "name": "DummyAbil128"
+        },
+        {
+            "buttonname": "DummyAbil129",
+            "id": 3940,
+            "index": 0,
+            "name": "DummyAbil129"
+        },
+        {
+            "buttonname": "DummyAbil130",
+            "id": 3941,
+            "index": 0,
+            "name": "DummyAbil130"
+        },
+        {
+            "buttonname": "DummyAbil131",
+            "id": 3942,
+            "index": 0,
+            "name": "DummyAbil131"
+        },
+        {
+            "buttonname": "DummyAbil132",
+            "id": 3943,
+            "index": 0,
+            "name": "DummyAbil132"
+        },
+        {
+            "buttonname": "DummyAbil133",
+            "id": 3944,
+            "index": 0,
+            "name": "DummyAbil133"
+        },
+        {
+            "buttonname": "DummyAbil134",
+            "id": 3945,
+            "index": 0,
+            "name": "DummyAbil134"
+        },
+        {
+            "buttonname": "DummyAbil135",
+            "id": 3946,
+            "index": 0,
+            "name": "DummyAbil135"
+        },
+        {
+            "buttonname": "DummyAbil136",
+            "id": 3947,
+            "index": 0,
+            "name": "DummyAbil136"
+        },
+        {
+            "buttonname": "DummyAbil137",
+            "id": 3948,
+            "index": 0,
+            "name": "DummyAbil137"
+        },
+        {
+            "buttonname": "DummyAbil138",
+            "id": 3949,
+            "index": 0,
+            "name": "DummyAbil138"
+        },
+        {
+            "buttonname": "DummyAbil139",
+            "id": 3950,
+            "index": 0,
+            "name": "DummyAbil139"
+        },
+        {
+            "buttonname": "DummyAbil140",
+            "id": 3951,
+            "index": 0,
+            "name": "DummyAbil140"
+        },
+        {
+            "buttonname": "DummyAbil141",
+            "id": 3952,
+            "index": 0,
+            "name": "DummyAbil141"
+        },
+        {
+            "buttonname": "DummyAbil142",
+            "id": 3953,
+            "index": 0,
+            "name": "DummyAbil142"
+        },
+        {
+            "buttonname": "DummyAbil143",
+            "id": 3954,
+            "index": 0,
+            "name": "DummyAbil143"
+        },
+        {
+            "buttonname": "DummyAbil144",
+            "id": 3955,
+            "index": 0,
+            "name": "DummyAbil144"
+        },
+        {
+            "buttonname": "DummyAbil145",
+            "id": 3956,
+            "index": 0,
+            "name": "DummyAbil145"
+        },
+        {
+            "buttonname": "DummyAbil146",
+            "id": 3957,
+            "index": 0,
+            "name": "DummyAbil146"
+        },
+        {
+            "buttonname": "DummyAbil147",
+            "id": 3958,
+            "index": 0,
+            "name": "DummyAbil147"
+        },
+        {
+            "buttonname": "DummyAbil148",
+            "id": 3959,
+            "index": 0,
+            "name": "DummyAbil148"
+        },
+        {
+            "buttonname": "DummyAbil149",
+            "id": 3960,
+            "index": 0,
+            "name": "DummyAbil149"
+        },
+        {
+            "buttonname": "DummyAbil150",
+            "id": 3961,
+            "index": 0,
+            "name": "DummyAbil150"
+        },
+        {
+            "buttonname": "DummyAbil151",
+            "id": 3962,
+            "index": 0,
+            "name": "DummyAbil151"
+        },
+        {
+            "buttonname": "DummyAbil152",
+            "id": 3963,
+            "index": 0,
+            "name": "DummyAbil152"
+        },
+        {
+            "buttonname": "DummyAbil153",
+            "id": 3964,
+            "index": 0,
+            "name": "DummyAbil153"
+        },
+        {
+            "buttonname": "DummyAbil154",
+            "id": 3965,
+            "index": 0,
+            "name": "DummyAbil154"
+        },
+        {
+            "buttonname": "DummyAbil155",
+            "id": 3966,
+            "index": 0,
+            "name": "DummyAbil155"
+        },
+        {
+            "buttonname": "DummyAbil156",
+            "id": 3967,
+            "index": 0,
+            "name": "DummyAbil156"
+        },
+        {
+            "buttonname": "DummyAbil157",
+            "id": 3968,
+            "index": 0,
+            "name": "DummyAbil157"
+        },
+        {
+            "buttonname": "DummyAbil158",
+            "id": 3969,
+            "index": 0,
+            "name": "DummyAbil158"
+        },
+        {
+            "buttonname": "DummyAbil159",
+            "id": 3970,
+            "index": 0,
+            "name": "DummyAbil159"
+        },
+        {
+            "buttonname": "DummyAbil160",
+            "id": 3971,
+            "index": 0,
+            "name": "DummyAbil160"
+        },
+        {
+            "buttonname": "DummyAbil161",
+            "id": 3972,
+            "index": 0,
+            "name": "DummyAbil161"
+        },
+        {
+            "buttonname": "DummyAbil162",
+            "id": 3973,
+            "index": 0,
+            "name": "DummyAbil162"
+        },
+        {
+            "buttonname": "DummyAbil163",
+            "id": 3974,
+            "index": 0,
+            "name": "DummyAbil163"
+        },
+        {
+            "buttonname": "DummyAbil164",
+            "id": 3975,
+            "index": 0,
+            "name": "DummyAbil164"
+        },
+        {
+            "buttonname": "DummyAbil165",
+            "id": 3976,
+            "index": 0,
+            "name": "DummyAbil165"
+        },
+        {
+            "buttonname": "DummyAbil166",
+            "id": 3977,
+            "index": 0,
+            "name": "DummyAbil166"
+        },
+        {
+            "buttonname": "DummyAbil167",
+            "id": 3978,
+            "index": 0,
+            "name": "DummyAbil167"
+        },
+        {
+            "buttonname": "DummyAbil168",
+            "id": 3979,
+            "index": 0,
+            "name": "DummyAbil168"
+        },
+        {
+            "buttonname": "DummyAbil169",
+            "id": 3980,
+            "index": 0,
+            "name": "DummyAbil169"
+        },
+        {
+            "buttonname": "DummyAbil170",
+            "id": 3981,
+            "index": 0,
+            "name": "DummyAbil170"
+        },
+        {
+            "buttonname": "DummyAbil171",
+            "id": 3982,
+            "index": 0,
+            "name": "DummyAbil171"
+        },
+        {
+            "buttonname": "DummyAbil172",
+            "id": 3983,
+            "index": 0,
+            "name": "DummyAbil172"
+        },
+        {
+            "buttonname": "DummyAbil173",
+            "id": 3984,
+            "index": 0,
+            "name": "DummyAbil173"
+        },
+        {
+            "buttonname": "DummyAbil174",
+            "id": 3985,
+            "index": 0,
+            "name": "DummyAbil174"
+        },
+        {
+            "buttonname": "DummyAbil175",
+            "id": 3986,
+            "index": 0,
+            "name": "DummyAbil175"
+        },
+        {
+            "buttonname": "DummyAbil176",
+            "id": 3987,
+            "index": 0,
+            "name": "DummyAbil176"
+        },
+        {
+            "buttonname": "DummyAbil177",
+            "id": 3988,
+            "index": 0,
+            "name": "DummyAbil177"
+        },
+        {
+            "buttonname": "DummyAbil178",
+            "id": 3989,
+            "index": 0,
+            "name": "DummyAbil178"
+        },
+        {
+            "buttonname": "DummyAbil179",
+            "id": 3990,
+            "index": 0,
+            "name": "DummyAbil179"
+        },
+        {
+            "buttonname": "DummyAbil180",
+            "id": 3991,
+            "index": 0,
+            "name": "DummyAbil180"
+        },
+        {
+            "buttonname": "DummyAbil181",
+            "id": 3992,
+            "index": 0,
+            "name": "DummyAbil181"
+        },
+        {
+            "buttonname": "DummyAbil182",
+            "id": 3993,
+            "index": 0,
+            "name": "DummyAbil182"
+        },
+        {
+            "buttonname": "DummyAbil183",
+            "id": 3994,
+            "index": 0,
+            "name": "DummyAbil183"
+        },
+        {
+            "buttonname": "DummyAbil184",
+            "id": 3995,
+            "index": 0,
+            "name": "DummyAbil184"
+        },
+        {
+            "buttonname": "DummyAbil185",
+            "id": 3996,
+            "index": 0,
+            "name": "DummyAbil185"
+        },
+        {
+            "buttonname": "DummyAbil186",
+            "id": 3997,
+            "index": 0,
+            "name": "DummyAbil186"
+        },
+        {
+            "buttonname": "DummyAbil187",
+            "id": 3998,
+            "index": 0,
+            "name": "DummyAbil187"
+        },
+        {
+            "buttonname": "DummyAbil188",
+            "id": 3999,
+            "index": 0,
+            "name": "DummyAbil188"
+        },
+        {
+            "buttonname": "DummyAbil189",
+            "id": 4000,
+            "index": 0,
+            "name": "DummyAbil189"
+        },
+        {
+            "buttonname": "DummyAbil190",
+            "id": 4001,
+            "index": 0,
+            "name": "DummyAbil190"
+        },
+        {
+            "buttonname": "DummyAbil191",
+            "id": 4002,
+            "index": 0,
+            "name": "DummyAbil191"
+        },
+        {
+            "buttonname": "DummyAbil192",
+            "id": 4003,
+            "index": 0,
+            "name": "DummyAbil192"
+        },
+        {
+            "buttonname": "DummyAbil193",
+            "id": 4004,
+            "index": 0,
+            "name": "DummyAbil193"
+        },
+        {
+            "buttonname": "DummyAbil194",
+            "id": 4005,
+            "index": 0,
+            "name": "DummyAbil194"
+        },
+        {
+            "buttonname": "DummyAbil195",
+            "id": 4006,
+            "index": 0,
+            "name": "DummyAbil195"
+        },
+        {
+            "buttonname": "DummyAbil196",
+            "id": 4007,
+            "index": 0,
+            "name": "DummyAbil196"
+        },
+        {
+            "buttonname": "DummyAbil197",
+            "id": 4008,
+            "index": 0,
+            "name": "DummyAbil197"
+        },
+        {
+            "buttonname": "DummyAbil198",
+            "id": 4009,
+            "index": 0,
+            "name": "DummyAbil198"
+        },
+        {
+            "buttonname": "DummyAbil199",
+            "id": 4010,
+            "index": 0,
+            "name": "DummyAbil199"
+        },
+        {
+            "buttonname": "DummyAbil200",
+            "id": 4011,
+            "index": 0,
+            "name": "DummyAbil200"
+        },
+        {
+            "buttonname": "DummyAbil201",
+            "id": 4012,
+            "index": 0,
+            "name": "DummyAbil201"
+        },
+        {
+            "buttonname": "DummyAbil202",
+            "id": 4013,
+            "index": 0,
+            "name": "DummyAbil202"
+        },
+        {
+            "buttonname": "DummyAbil203",
+            "id": 4014,
+            "index": 0,
+            "name": "DummyAbil203"
+        },
+        {
+            "buttonname": "DummyAbil204",
+            "id": 4015,
+            "index": 0,
+            "name": "DummyAbil204"
+        },
+        {
+            "buttonname": "DummyAbil205",
+            "id": 4016,
+            "index": 0,
+            "name": "DummyAbil205"
+        },
+        {
+            "buttonname": "DummyAbil206",
+            "id": 4017,
+            "index": 0,
+            "name": "DummyAbil206"
+        },
+        {
+            "buttonname": "DummyAbil207",
+            "id": 4018,
+            "index": 0,
+            "name": "DummyAbil207"
+        },
+        {
+            "buttonname": "DummyAbil208",
+            "id": 4019,
+            "index": 0,
+            "name": "DummyAbil208"
+        },
+        {
+            "buttonname": "DummyAbil209",
+            "id": 4020,
+            "index": 0,
+            "name": "DummyAbil209"
+        },
+        {
+            "buttonname": "DummyAbil210",
+            "id": 4021,
+            "index": 0,
+            "name": "DummyAbil210"
+        },
+        {
+            "buttonname": "DummyAbil211",
+            "id": 4022,
+            "index": 0,
+            "name": "DummyAbil211"
+        },
+        {
+            "buttonname": "DummyAbil212",
+            "id": 4023,
+            "index": 0,
+            "name": "DummyAbil212"
+        },
+        {
+            "buttonname": "DummyAbil213",
+            "id": 4024,
+            "index": 0,
+            "name": "DummyAbil213"
+        },
+        {
+            "buttonname": "DummyAbil214",
+            "id": 4025,
+            "index": 0,
+            "name": "DummyAbil214"
+        },
+        {
+            "buttonname": "DummyAbil215",
+            "id": 4026,
+            "index": 0,
+            "name": "DummyAbil215"
+        },
+        {
+            "buttonname": "DummyAbil216",
+            "id": 4027,
+            "index": 0,
+            "name": "DummyAbil216"
+        },
+        {
+            "buttonname": "DummyAbil217",
+            "id": 4028,
+            "index": 0,
+            "name": "DummyAbil217"
+        },
+        {
+            "buttonname": "DummyAbil218",
+            "id": 4029,
+            "index": 0,
+            "name": "DummyAbil218"
+        },
+        {
+            "buttonname": "DummyAbil219",
+            "id": 4030,
+            "index": 0,
+            "name": "DummyAbil219"
+        },
+        {
+            "buttonname": "DummyAbil220",
+            "id": 4031,
+            "index": 0,
+            "name": "DummyAbil220"
+        },
+        {
+            "buttonname": "DummyAbil221",
+            "id": 4032,
+            "index": 0,
+            "name": "DummyAbil221"
+        },
+        {
+            "buttonname": "DummyAbil222",
+            "id": 4033,
+            "index": 0,
+            "name": "DummyAbil222"
+        },
+        {
+            "buttonname": "DummyAbil223",
+            "id": 4034,
+            "index": 0,
+            "name": "DummyAbil223"
+        },
+        {
+            "buttonname": "DummyAbil224",
+            "id": 4035,
+            "index": 0,
+            "name": "DummyAbil224"
+        },
+        {
+            "buttonname": "DummyAbil225",
+            "id": 4036,
+            "index": 0,
+            "name": "DummyAbil225"
+        },
+        {
+            "buttonname": "DummyAbil226",
+            "id": 4037,
+            "index": 0,
+            "name": "DummyAbil226"
+        },
+        {
+            "buttonname": "DummyAbil227",
+            "id": 4038,
+            "index": 0,
+            "name": "DummyAbil227"
+        },
+        {
+            "buttonname": "DummyAbil228",
+            "id": 4039,
+            "index": 0,
+            "name": "DummyAbil228"
+        },
+        {
+            "buttonname": "DummyAbil229",
+            "id": 4040,
+            "index": 0,
+            "name": "DummyAbil229"
+        },
+        {
+            "buttonname": "DummyAbil230",
+            "id": 4041,
+            "index": 0,
+            "name": "DummyAbil230"
+        },
+        {
+            "buttonname": "DummyAbil231",
+            "id": 4042,
+            "index": 0,
+            "name": "DummyAbil231"
+        },
+        {
+            "buttonname": "DummyAbil232",
+            "id": 4043,
+            "index": 0,
+            "name": "DummyAbil232"
+        },
+        {
+            "buttonname": "DummyAbil233",
+            "id": 4044,
+            "index": 0,
+            "name": "DummyAbil233"
+        },
+        {
+            "buttonname": "DummyAbil234",
+            "id": 4045,
+            "index": 0,
+            "name": "DummyAbil234"
+        },
+        {
+            "buttonname": "DummyAbil235",
+            "id": 4046,
+            "index": 0,
+            "name": "DummyAbil235"
+        },
+        {
+            "buttonname": "DummyAbil236",
+            "id": 4047,
+            "index": 0,
+            "name": "DummyAbil236"
+        },
+        {
+            "buttonname": "DummyAbil237",
+            "id": 4048,
+            "index": 0,
+            "name": "DummyAbil237"
+        },
+        {
+            "buttonname": "DummyAbil238",
+            "id": 4049,
+            "index": 0,
+            "name": "DummyAbil238"
+        },
+        {
+            "buttonname": "DummyAbil239",
+            "id": 4050,
+            "index": 0,
+            "name": "DummyAbil239"
+        },
+        {
+            "buttonname": "DummyAbil240",
+            "id": 4051,
+            "index": 0,
+            "name": "DummyAbil240"
+        },
+        {
+            "buttonname": "DummyAbil241",
+            "id": 4052,
+            "index": 0,
+            "name": "DummyAbil241"
+        },
+        {
+            "buttonname": "DummyAbil242",
+            "id": 4053,
+            "index": 0,
+            "name": "DummyAbil242"
+        },
+        {
+            "buttonname": "DummyAbil243",
+            "id": 4054,
+            "index": 0,
+            "name": "DummyAbil243"
+        },
+        {
+            "buttonname": "DummyAbil244",
+            "id": 4055,
+            "index": 0,
+            "name": "DummyAbil244"
+        },
+        {
+            "buttonname": "DummyAbil245",
+            "id": 4056,
+            "index": 0,
+            "name": "DummyAbil245"
+        },
+        {
+            "buttonname": "DummyAbil246",
+            "id": 4057,
+            "index": 0,
+            "name": "DummyAbil246"
+        },
+        {
+            "buttonname": "DummyAbil247",
+            "id": 4058,
+            "index": 0,
+            "name": "DummyAbil247"
+        },
+        {
+            "buttonname": "DummyAbil248",
+            "id": 4059,
+            "index": 0,
+            "name": "DummyAbil248"
+        },
+        {
+            "buttonname": "DummyAbil249",
+            "id": 4060,
+            "index": 0,
+            "name": "DummyAbil249"
+        },
+        {
+            "buttonname": "DummyAbil250",
+            "id": 4061,
+            "index": 0,
+            "name": "DummyAbil250"
+        },
+        {
+            "buttonname": "DummyAbil251",
+            "id": 4062,
+            "index": 0,
+            "name": "DummyAbil251"
+        },
+        {
+            "buttonname": "DummyAbil252",
+            "id": 4063,
+            "index": 0,
+            "name": "DummyAbil252"
+        },
+        {
+            "buttonname": "DummyAbil253",
+            "id": 4064,
+            "index": 0,
+            "name": "DummyAbil253"
+        },
+        {
+            "buttonname": "DummyAbil254",
+            "id": 4065,
+            "index": 0,
+            "name": "DummyAbil254"
+        },
+        {
+            "buttonname": "DummyAbil255",
+            "id": 4066,
+            "index": 0,
+            "name": "DummyAbil255"
+        },
+        {
+            "buttonname": "DummyAbil256",
+            "id": 4067,
+            "index": 0,
+            "name": "DummyAbil256"
+        },
+        {
+            "buttonname": "DummyAbil257",
+            "id": 4068,
+            "index": 0,
+            "name": "DummyAbil257"
+        },
+        {
+            "buttonname": "DummyAbil258",
+            "id": 4069,
+            "index": 0,
+            "name": "DummyAbil258"
+        },
+        {
+            "buttonname": "DummyAbil259",
+            "id": 4070,
+            "index": 0,
+            "name": "DummyAbil259"
+        },
+        {
+            "buttonname": "DummyAbil260",
+            "id": 4071,
+            "index": 0,
+            "name": "DummyAbil260"
+        },
+        {
+            "buttonname": "DummyAbil261",
+            "id": 4072,
+            "index": 0,
+            "name": "DummyAbil261"
+        },
+        {
+            "buttonname": "DummyAbil262",
+            "id": 4073,
+            "index": 0,
+            "name": "DummyAbil262"
+        },
+        {
+            "buttonname": "DummyAbil263",
+            "id": 4074,
+            "index": 0,
+            "name": "DummyAbil263"
+        },
+        {
+            "buttonname": "DummyAbil264",
+            "id": 4075,
+            "index": 0,
+            "name": "DummyAbil264"
+        },
+        {
+            "buttonname": "DummyAbil265",
+            "id": 4076,
+            "index": 0,
+            "name": "DummyAbil265"
+        },
+        {
+            "buttonname": "DummyAbil266",
+            "id": 4077,
+            "index": 0,
+            "name": "DummyAbil266"
+        },
+        {
+            "buttonname": "DummyAbil267",
+            "id": 4078,
+            "index": 0,
+            "name": "DummyAbil267"
+        },
+        {
+            "buttonname": "DummyAbil268",
+            "id": 4079,
+            "index": 0,
+            "name": "DummyAbil268"
+        },
+        {
+            "buttonname": "DummyAbil269",
+            "id": 4080,
+            "index": 0,
+            "name": "DummyAbil269"
+        },
+        {
+            "buttonname": "DummyAbil270",
+            "id": 4081,
+            "index": 0,
+            "name": "DummyAbil270"
+        },
+        {
+            "buttonname": "DummyAbil271",
+            "id": 4082,
+            "index": 0,
+            "name": "DummyAbil271"
+        },
+        {
+            "buttonname": "DummyAbil272",
+            "id": 4083,
+            "index": 0,
+            "name": "DummyAbil272"
+        },
+        {
+            "buttonname": "DummyAbil273",
+            "id": 4084,
+            "index": 0,
+            "name": "DummyAbil273"
+        },
+        {
+            "buttonname": "DummyAbil274",
+            "id": 4085,
+            "index": 0,
+            "name": "DummyAbil274"
+        },
+        {
+            "buttonname": "DummyAbil275",
+            "id": 4086,
+            "index": 0,
+            "name": "DummyAbil275"
+        },
+        {
+            "buttonname": "DummyAbil276",
+            "id": 4087,
+            "index": 0,
+            "name": "DummyAbil276"
+        },
+        {
+            "buttonname": "DummyAbil277",
+            "id": 4088,
+            "index": 0,
+            "name": "DummyAbil277"
+        },
+        {
+            "buttonname": "DummyAbil278",
+            "id": 4089,
+            "index": 0,
+            "name": "DummyAbil278"
+        },
+        {
+            "buttonname": "DummyAbil279",
+            "id": 4090,
+            "index": 0,
+            "name": "DummyAbil279"
+        },
+        {
+            "buttonname": "DummyAbil280",
+            "id": 4091,
+            "index": 0,
+            "name": "DummyAbil280"
+        },
+        {
+            "buttonname": "DummyAbil281",
+            "id": 4092,
+            "index": 0,
+            "name": "DummyAbil281"
+        },
+        {
+            "buttonname": "DummyAbil282",
+            "id": 4093,
+            "index": 0,
+            "name": "DummyAbil282"
+        },
+        {
+            "buttonname": "DummyAbil283",
+            "id": 4094,
+            "index": 0,
+            "name": "DummyAbil283"
+        },
+        {
+            "buttonname": "DummyAbil284",
+            "id": 4095,
+            "index": 0,
+            "name": "DummyAbil284"
+        },
+        {
+            "buttonname": "DummyAbil285",
+            "id": 4096,
+            "index": 0,
+            "name": "DummyAbil285"
+        },
+        {
+            "buttonname": "DummyAbil286",
+            "id": 4097,
+            "index": 0,
+            "name": "DummyAbil286"
+        },
+        {
+            "buttonname": "DummyAbil287",
+            "id": 4098,
+            "index": 0,
+            "name": "DummyAbil287"
+        },
+        {
+            "buttonname": "DummyAbil288",
+            "id": 4099,
+            "index": 0,
+            "name": "DummyAbil288"
+        },
+        {
+            "buttonname": "DummyAbil289",
+            "id": 4100,
+            "index": 0,
+            "name": "DummyAbil289"
+        },
+        {
+            "buttonname": "DummyAbil290",
+            "id": 4101,
+            "index": 0,
+            "name": "DummyAbil290"
+        },
+        {
+            "buttonname": "DummyAbil291",
+            "id": 4102,
+            "index": 0,
+            "name": "DummyAbil291"
+        },
+        {
+            "buttonname": "DummyAbil292",
+            "id": 4103,
+            "index": 0,
+            "name": "DummyAbil292"
+        },
+        {
+            "buttonname": "DummyAbil293",
+            "id": 4104,
+            "index": 0,
+            "name": "DummyAbil293"
+        },
+        {
+            "buttonname": "DummyAbil294",
+            "id": 4105,
+            "index": 0,
+            "name": "DummyAbil294"
+        },
+        {
+            "buttonname": "DummyAbil295",
+            "id": 4106,
+            "index": 0,
+            "name": "DummyAbil295"
+        },
+        {
+            "buttonname": "BatteryOvercharge",
+            "id": 4107,
+            "index": 0,
+            "name": "BatteryOvercharge"
+        },
+        {
+            "buttonname": "DummyAbil296",
+            "id": 4108,
+            "index": 0,
+            "name": "DummyAbil296"
+        },
+        {
+            "buttonname": "AmorphousArmorcloud",
+            "id": 4109,
+            "index": 0,
+            "name": "AmorphousArmorcloud"
+        },
+        {
+            "buttonname": "DummyAbil297",
+            "id": 4110,
+            "index": 0,
+            "name": "DummyAbil297"
+        },
+        {
+            "buttonname": "ShieldBatteryRecharge",
+            "id": 4111,
+            "index": 0,
+            "name": "ShieldBatteryRechargeEx5"
+        },
+        {
+            "buttonname": "Stop",
+            "id": 4112,
+            "index": 1,
+            "name": "ShieldBatteryRechargeEx5"
+        },
+        {
+            "buttonname": "DummyAbil298",
+            "id": 4113,
+            "index": 0,
+            "name": "DummyAbil298"
+        },
+        {
+            "buttonname": "DummyAbil299",
+            "id": 4114,
+            "index": 0,
+            "name": "DummyAbil299"
+        },
+        {
+            "id": 4115,
+            "name": "ObserverSiegeMorphtoObserver",
+            "buttonname": "",
+            "index": 2
+        },
+        {
+            "id": 4116,
+            "name": "ObserverMorphtoObserverSiege",
+            "buttonname": "",
+            "index": 2
+        },
+        {
+            "id": 4117,
+            "name": "OverseerMorphtoOverseerSiegeMode",
+            "buttonname": "",
+            "index": 2
+        },
+        {
+            "id": 4118,
+            "name": "OverseerSiegeModeMorphtoOverseer",
+            "buttonname": "",
+            "index": 2
+        },
+        {
+            "id": 4119,
+            "name": "MorphToBaneling_Baneling",
+            "buttonname": "Baneling",
+            "index": 0
+        },
+        {
+            "id": 4120,
+            "name": "MorphToBaneling_Baneling",
+            "buttonname": "Cancel",
+            "index": 1
+        },
+        {
+            "id": 4121,
+            "name": "MorphToBaneling_Baneling",
+            "buttonname": "",
+            "index": 2
+        },
+        {
+            "id": 4122,
+            "name": "MothershipCloak",
+            "buttonname": "OracleCloakField",
+            "index": 0
+        },
+        {
+            "id": 4123,
+            "name": "MothershipCloak",
+            "buttonname": "",
+            "index": 1
+        },
+        {
+            "id": 4124,
+            "name": "HydraliskFrenzy",
+            "buttonname": "",
+            "index": 1
         }
     ],
     "Buffs": [
@@ -24420,6 +26388,58 @@
         {
             "id": 288,
             "name": "Transfusion"
+        },
+	{
+	    "id": 289,
+	    "name": "AccelerationZoneTemporalField"
+	},
+	{
+	    "id": 290,
+	    "name": "AccelerationZoneFlyingTemporalField"
+	},
+	{
+	    "id": 291,
+	    "name": "InhibitorZoneFlyingTemporalField"
+	},
+	{
+	    "id": 292,
+	    "name": "DummyBuff000"
+	},
+	{
+	    "id": 293,
+	    "name": "InhibitorZoneTemporalField"
+	},
+        {
+            "id": 294,
+            "name": "CloakField"
+        },
+        {
+            "id": 295,
+            "name": "ResonatingGlaivesPhaseShift"
+        },
+        {
+            "id": 296,
+            "name": "NeuralParasiteChildren"
+        },
+        {
+            "id": 297,
+            "name": "AmorphousArmorcloud"
+        },
+        {
+            "id": 298,
+            "name": "RavenShredderMissileArmorReductionUISubtruct"
+        },
+        {
+            "id": 299,
+            "name": "TakenDamage"
+        },
+        {
+            "id": 300,
+            "name": "RavenScramblerMissileCarrier"
+        },
+        {
+            "id": 301,
+            "name": "BatteryOvercharge"
         }
     ],
     "Effects": [
@@ -32343,7 +34363,231 @@
         {
             "id": 1942,
             "name": "ParasiticBombRelayDummy"
-        }
+        },
+	{
+	    "id": 1943,
+	    "name": "RefineryRich"
+	},
+	{
+	    "id": 1944,
+	    "name": "MechaZerglingACGlueScreenDummy"
+	},
+	{
+	    "id": 1945,
+	    "name": "MechaBanelingACGlueScreenDummy"
+	},
+	{
+	    "id": 1946,
+	    "name": "MechaHydraliskACGlueScreenDummy"
+	},
+	{
+	    "id": 1947,
+	    "name": "MechaInfestorACGlueScreenDummy"
+	},
+	{
+	    "id": 1948,
+	    "name": "MechaCorruptorACGlueScreenDummy"
+	},
+	{
+	    "id": 1949,
+	    "name": "MechaUltraliskACGlueScreenDummy"
+	},
+	{
+	    "id": 1950,
+	    "name": "MechaOverseerACGlueScreenDummy"
+	},
+	{
+	    "id": 1951,
+	    "name": "MechaLurkerACGlueScreenDummy"
+	},
+	{
+	    "id": 1952,
+	    "name": "MechaBattleCarrierLordACGlueScreenDummy"
+	},
+	{
+	    "id": 1953,
+	    "name": "MechaSpineCrawlerACGlueScreenDummy"
+	},
+	{
+	    "id": 1954,
+	    "name": "MechaSporeCrawlerACGlueScreenDummy"
+	},
+	{
+	    "id": 1955,
+	    "name": "TrooperMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1956,
+	    "name": "MedivacMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1957,
+	    "name": "BlimpMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1958,
+	    "name": "MarauderMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1959,
+	    "name": "GhostMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1960,
+	    "name": "SiegeTankMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1961,
+	    "name": "ThorMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1962,
+	    "name": "VikingMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1963,
+	    "name": "BattlecruiserMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1964,
+	    "name": "BunkerDepotMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1965,
+	    "name": "MissileTurretMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1966,
+	    "name": "ArtilleryMengskACGlueScreenDummy"
+	},
+	{
+	    "id": 1967,
+	    "name": "LoadoutSpray1"
+	},
+	{
+	    "id": 1968,
+	    "name": "LoadoutSpray2"
+	},
+	{
+	    "id": 1969,
+	    "name": "LoadoutSpray3"
+	},
+	{
+	    "id": 1970,
+	    "name": "LoadoutSpray4"
+	},
+	{
+	    "id": 1971,
+	    "name": "LoadoutSpray5"
+	},
+	{
+	    "id": 1972,
+	    "name": "LoadoutSpray6"
+	},
+	{
+	    "id": 1973,
+	    "name": "LoadoutSpray7"
+	},
+	{
+	    "id": 1974,
+	    "name": "LoadoutSpray8"
+	},
+	{
+	    "id": 1975,
+	    "name": "LoadoutSpray9"
+	},
+	{
+	    "id": 1976,
+	    "name": "LoadoutSpray10"
+	},
+	{
+	    "id": 1977,
+	    "name": "LoadoutSpray11"
+	},
+	{
+	    "id": 1978,
+	    "name": "LoadoutSpray12"
+	},
+	{
+	    "id": 1979,
+	    "name": "LoadoutSpray13"
+	},
+	{
+	    "id": 1980,
+	    "name": "LoadoutSpray14"
+	},
+	{
+	    "id": 1981,
+	    "name": "PreviewBunkerUpgraded"
+	},
+	{
+	    "id": 1982,
+	    "name": "InhibitorZoneSmall"
+	},
+	{
+	    "id": 1983,
+	    "name": "InhibitorZoneMedium"
+	},
+	{
+	    "id": 1984,
+	    "name": "InhibitorZoneLarge"
+	},
+	{
+	    "id": 1985,
+	    "name": "AccelerationZoneSmall"
+	},
+	{
+	    "id": 1986,
+	    "name": "AccelerationZoneMedium"
+	},
+	{
+	    "id": 1987,
+	    "name": "AccelerationZoneLarge"
+	},
+	{
+	    "id": 1988,
+	    "name": "AccelerationZoneFlyingSmall"
+	},
+	{
+	    "id": 1989,
+	    "name": "AccelerationZoneFlyingMedium"
+	},
+	{
+	    "id": 1990,
+	    "name": "AccelerationZoneFlyingLarge"
+	},
+	{
+	    "id": 1991,
+	    "name": "InhibitorZoneFlyingSmall"
+	},
+	{
+	    "id": 1992,
+	    "name": "InhibitorZoneFlyingMedium"
+	},
+	{
+	    "id": 1993,
+	    "name": "InhibitorZoneFlyingLarge"
+	},
+	{
+	    "id": 1994,
+	    "name": "AssimilatorRich"
+	},
+	{
+	    "id": 1995,
+	    "name": "ExtractorRich"
+	},
+	{
+	    "id": 1996,
+	    "name": "MineralField450"
+	},
+	{
+	    "id": 1997,
+	    "name": "MineralFieldOpaque"
+	},
+	{
+	    "id": 1998,
+	    "name": "MineralFieldOpaque900"
+	}
     ],
     "Upgrades": [
         {
@@ -33547,6 +35791,46 @@
         {
             "id": 295,
             "name": "CarrierLeashRangeUpgrade"
+        },
+        {
+            "id": 296,
+            "name": "HurricaneThrusters"
+        },
+        {
+            "id": 297,
+            "name": "TempestGroundAttackUpgrade"
+        },
+        {
+            "id": 298,
+            "name": "MicrobialShroud"
+        },
+        {
+            "id": 299,
+            "name": "InterferenceMatrix"
+        },
+        {
+            "id": 300,
+            "name": "SunderingImpact"
+        },
+        {
+            "id": 301,
+            "name": "AmplifiedShielding"
+        },
+        {
+            "id": 302,
+            "name": "PsionicAmplifiers"
+        },
+        {
+            "id": 303,
+            "name": "SecretedCoating"
+        },
+        {
+            "id": 304,
+            "name": "EnhancedShockwaves"
+        },
+        {
+            "id": 305,
+            "name": "Frenzy"
         }
     ]
 }
